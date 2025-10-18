@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price,InStock
+101,Laptop,Electronics,1200,50
+102,Smartphone,Electronics,800,200
+103,Coffee Maker,Appliances,150,120
+104,Desk Chair,Furniture,250,75
+105,Running Shoes,Apparel,100,300
+106,Bluetooth Speaker,Electronics,80,500
+107,Toaster,Appliances,45,150
+108,Bookshelf,Furniture,180,60
+109,T-Shirt,Apparel,25,1000
+110,External Hard Drive,Electronics,120,250
